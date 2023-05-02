@@ -12,6 +12,7 @@
 
 	<footer>
 		<p>visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to learn SvelteKit</p>
+		<p>visit the better website <a href="//jacksonwel.sh">jacksonwel.sh</a> for more</p>
 	</footer>
 </div>
 
