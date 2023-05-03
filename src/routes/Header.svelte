@@ -20,7 +20,7 @@
 				<a href="/">My Home Sweet Home</a>
 			</li>
 			<li aria-current={$page.url.pathname === '/about' ? 'page' : undefined}>
-				<a href="/about">About Me</a>
+				<a href="/about">About Me!</a>
 			</li>
 			<li aria-current={$page.url.pathname.startsWith('/sverdle') ? 'page' : undefined}>
 				<a href="/sverdle">Wordle</a>
